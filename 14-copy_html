@@ -1,0 +1,3 @@
+#!/bin/bash
+ Cp –u  x.htm ..
+
