@@ -1,2 +1,2 @@
 #!/bin/bash
-egrep -A 3 'root' /etc/passwd
+find -mindepth 1 -type d | wc -l
